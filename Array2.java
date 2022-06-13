@@ -4,8 +4,8 @@ public class Array2 {
 
   public static void main(String[] args) {
     boolean isDebugMode = false;
-    int a = 10;
-    int b = 3;
+    int a = 12;
+    int b = 4;
     if(a + b > 10) {
       System.out.println("Мы попали в ветку true");
       a = 5;
